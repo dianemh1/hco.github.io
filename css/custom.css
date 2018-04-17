@@ -1,30 +1,7 @@
-.container .jumbotron {
-	padding: 0px;
-}
-.dl-horizontal dt {
-    white-space: normal;
-}
-
-.navbar-brand {
-    line-height: 70px;
-    height: 70px;
-    padding-top: 0;
-}
-.navbar-nav li a {
-    line-height: 70px;
-    height: 70px;
-    padding-top: 20px;
-}
 body { 
 	padding-top: 70px; 
 }
 .default-template {
   padding: 40px 15px;
   text-align: center;
-}
-
-/* Main marketing message and sign up button */
-.jumbotron {
-  text-align: left;
-  background-color: transparent;
 }
